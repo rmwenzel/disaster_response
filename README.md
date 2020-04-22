@@ -1,4 +1,4 @@
-# Disaster Response NLP Pipeline and Web App
+cd# Disaster Response NLP Pipeline and Web App
 
 A simple Flask web app that uses NLP to classify messages into categories related to disaster reponse.
 
@@ -17,7 +17,7 @@ For more discussion, and more detailed analysis of the data and the ETL and ML p
     - To run the ML pipeline that trains classifier and saves
         `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
 
-2. Run the following command in the app's directory to run the web app.
+2. Run the following command in the `app` directory to run the web app.
     `python run.py`
 
 3. Go to `http://0.0.0.0:3001/` to use the web app
