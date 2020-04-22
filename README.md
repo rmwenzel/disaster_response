@@ -1,4 +1,4 @@
-cd# Disaster Response NLP Pipeline and Web App
+# Disaster Response NLP Pipeline and Web App
 
 A simple Flask web app that uses NLP to classify messages into categories related to disaster reponse.
 
