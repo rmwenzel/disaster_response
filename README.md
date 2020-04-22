@@ -1,7 +1,5 @@
 # Disaster Response NLP Pipeline and Web App
 
-A simple Flask web app that uses NLP to classify messages into categories related to disaster reponse.
-
 The user can input a text message and see which categories it is classified into, as well as view visualizations of the dataset used for training, [Multilingual Disaster Response Messages](https://appen.com/datasets/combined-disaster-response-data/).
 
 The final model is optimized for [F-beta score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.fbeta_score.html), which is similar to f1 score but allows to one weight recall higher than precision (or vice versa). Emphasizing recall over precision makes more sense for this application.
