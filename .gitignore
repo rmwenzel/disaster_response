@@ -1,0 +1,12 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Mac OS files
+.DS_Store
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
